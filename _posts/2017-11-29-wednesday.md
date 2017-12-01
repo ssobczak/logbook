@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Wednesday"
+date:   2017-11-29
+categories: daily
+---
+
 ### VASIMR - Plasma rocket drive
 
 [Wiki](https://en.wikipedia.org/wiki/Variable_Specific_Impulse_Magnetoplasma_Rocket)
