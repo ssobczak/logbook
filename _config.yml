@@ -23,7 +23,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-source: notes
+source: docs
 
 exclude:
   - Gemfile
