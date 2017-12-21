@@ -41,7 +41,7 @@ $ \zeta(s) $ is a holomorphic function, which means it cane be analitically cont
 
 Riemman hypothesis: all not-trivial zeros of $ \zeta(s) $ are on the line of $ (1/2 + bi) $
 
-![chart](img/2017-12-20.jpg)
+![chart](https://ssobczak.github.io/logbook/assets/img/2017-12-20.jpg)
 
 Location of zeros of the function is related to distribution of prime numbers - there's a formula that tells you how many primes are between 1 and n.
 

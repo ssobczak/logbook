@@ -24,11 +24,3 @@ kramdown:
   input: GFM
 
 source: docs
-scope:
-    path: "_posts/img"
-  values:
-    image: true
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
