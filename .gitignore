@@ -1,4 +1,5 @@
 /docs/work
+.DS_Store
 
 # jekyll
 /_site
