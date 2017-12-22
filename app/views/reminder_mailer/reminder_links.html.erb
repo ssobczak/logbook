@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h1>Daily reminder</h1>
+    <ul>
+      <% @articles.each do |article| %>
+        <li><a href="<%= article.url %>">
+          <%= article.title %>, <%= article.date %>
+        </a></li>
+      <% end %>
+    </ul>
+
+    <p>S</p>
+  </body>
+</html>

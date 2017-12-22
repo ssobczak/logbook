@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+# Set your environment here.
+ENV["RAILS_ENV"] ||= "development"
+
+require_relative "../config/environment"
+
+ReminderSchedule.new.send_emails
