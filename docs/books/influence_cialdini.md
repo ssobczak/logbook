@@ -1,8 +1,6 @@
 # Influence: The Psychology of Persuasion
 by Robert B. Cialdini
 
-## Introduction
-
 ## Chapter 1: Weapons of Influence
 
 ### Automatic response
