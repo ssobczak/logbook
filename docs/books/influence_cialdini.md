@@ -1,7 +1,7 @@
 # Influence: The Psychology of Persuasion
 by Robert B. Cialdini
 
-## Chapter 1: Weapons of Influence
+## Weapons of Influence
 
 ### Automatic response
 
@@ -18,7 +18,7 @@ Cleaning fish trigger not-moving of bigger fish by a dance. Small predators do t
 When selling two items, start with the overpriced one.
 House sales: start with an overpriced,
 
-## Chapter 2: Reciprocation: The Old Give and Take … and Take
+## Reciprocation rule
 Used by companies to give a small gift first (Krishna, mail gifts. supermarket samples).
 Socially useful and present in most cultures.
 The giver chooses the initial favor and the form of repay.
@@ -33,7 +33,7 @@ People that were offered concession and agreed are more happy with the result th
 
 **Defense** Mentally re-label the requests from reciprocity (standard useful to society) to a "trick". Favors call for re-payment, but tricks don't.
 
-## Chapter 3: Commitment and Consistency: Hobgoblins of the Mind
+## Commitment and Consistency
 People unconsciously try to be consistent with decisions they made. This is socially approved and decreases cognitive burden to the person - make the decision once and don't re-consider every single time.
 
 Toy sales example: companies advertise a toy, getting people to promise it to their children for Christmas. Then the toy is out of stock, so parents buy something else. After Christmas the campaign is re-run, children say "you promised" and parents buy the toy to be consistent.
@@ -57,7 +57,7 @@ Example experiment: children were forbidden to play with a toy. One group "becau
 First, recognize the strategy. Consistency is a good thing, just the mindless one is to be avoided.
 Collecting consistency for evidence is a mental work, so when thinking about a decision, the 'gut feeling' before we can intellectualize about it. So ask a question "would I do it again" and pay attention to the first thought.
 
-## Chapter 4: Social Proof: Truths Are Us
+## Social Proof
 
 Canned laughter in TV works (people think content is funnier) even if it's obvious that it's fake - such strong is our instinct to think and do the same as others.
 
