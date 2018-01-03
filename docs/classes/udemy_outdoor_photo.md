@@ -268,17 +268,30 @@ Don't skimp on pro looking website.
 Site should be searchable + SEO & blog.
 Set image usage rights (stockboxphoto.com - example of pricing & rights).
 
-
 **92. Email & Direct Mail Marketing**
+Email and DM is one of the best tools for photo marketing. Idea: self-publish postcards or small calendar and offer to send it for free to anyone interested.
+
+Design a page with 5-8 images. Hire a graphic designer to design it, to appeal to other designers.
+
+Copy: show some work and convince them that they want more
 
 **93. Your Portfolio and Portfolio Presentations**
+Have a common theme. Printed portfolio books. No excuses for the images.
+
+Let the client explain what they need. You want to leave with them liking you. Leave something for them to remember.
 
 **94. The Importance of Social Media Marketing**
+Social marketing - currency is time that you put in. Giving info for free is a good strategy.
+
+Most pro/corporate buyers don't come trough social media. Rather workshops, classes & ebooks.
+
+Google+ id designed for sharing photography.
 
 **95. Social Photo Sharing**
+Clients search the biggest catalogs of images (500px, flickr), because it's easy. Clients search by keywords.
 
 **96. Self Assignment 8: Marketing**
-
+Choose your best images and create direct mail card.
 
 ## Pricing Your Photography and Licensing Models
 **97. Introduction to Pricing Photography**

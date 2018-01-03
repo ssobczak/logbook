@@ -31,7 +31,7 @@ Different approach (based on sieve) proved that the gap is < 246. With really op
 ## Riemann Hypothesis
 [Numberphile](https://www.youtube.com/watch?v=d6c6uIyieoo)
 
-One of the 7 millenium form year 2000 (only 1 solved).
+Riemman's hypothesis is one of the 7 millenium problems form year 2000. Only one of them is solved so far.
 
 Riemman zeta function: $ \zeta(s) = 1/1^s + 1/2^s + 1/3^s + ... $
 
