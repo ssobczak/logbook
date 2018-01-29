@@ -4,42 +4,67 @@
 ## The Profession of Outdoor and Nature Photography
 **1. Intro to Professional Outdoor Photography**
 
+Outdoor photography is one of the most competitive. Unlike wedding, the photographer needs to create the product and then sell it.
+
 **2. Are You Sure You Want to Go Pro?**
 
-
+Going pro not necessarily will pay for your passion - more business, costs, stress. Doing this for fun means no stress and sometimes easier to afford the travel.
 
 ## Introduction to the Business of Outdoor and Nature Photography
 **3. The 10 Commandments of Professional Photography**
 
+- Plan what exactly you want to do.
+- Decide what products you will have.
+- Who will pay you? Corp. or enthusiasts?
+- Explain what will the client get (example: video describing workshop).
+- Automate sales.
+- Meet deadlines.
+- Have a marketing strategy.
+- Pricing - value or volume?
+- Markets - approach businesses for free, or bartering - photos for services.
+- Work-life balance.
+
 **4. Should You Be a Specialist or Generalist**
+
+Always be specialist and market as specialist. Can be topic & area. Have a theme in portfolio.
+
+Traveling to a remote destination you're competing with locals that have more time and no costs.
+
+Client will take the specialist for the job, but then ask you to shoot other types of pics on the job - be able to do all those too.
 
 **5. Understanding Outdoor Stock Photography**
 
+Generic and timeless pictures, like Marylin Monroe, or a waterfall.
+
+Keep in mind clothing and gear styles - they expire. Remove all logos and copyrighted symbols from the pics.
+
 **6. Whose Going to Buy Your Outdoor Photography?**
+
+People with tight deadlines, but mostly people that want concept photos (teamwork) rather than specific shots.
 
 **7. Outdoor Photography Concepts**
 
+Non-verbally convey a message. Don't have to be pretty pictures.
+
+For example: success - sky views, challenge - extreme sports.
+
+Keywords are very important.
+
+Photoshop is really useful for expressing concepts.
+
 **8. Self Assignment #1**
 
+Shoot pictures of 5 concepts.
 
 ## Photography 101 (for those NEW to photography)
-**9. Photography Gear: The Camera**
-
-**10. Photography Gear: The Lens**
-
-**11. More Photography Gear**
-
-**12. Photography Setup: The Importance of ISO**
-
-**13. Photography Setup: The Importance of White Balance**
-
-**14. Properly Using Your Histogram**
-
-**15. Exposure: Go Right**
-
-**16. Mastering Creativity: Depth of Field**
-
-Quiz 1: Understanding Depth of Field
+- Photography Gear: The Camera
+- Photography Gear: The Lens
+- More Photography Gear
+- ISO
+- White Balance
+- Properly Using Your Histogram
+- Exposure
+- Depth of Field
 
 ## Creating Nature Photography That Sells
 **17. Nature Photography: Finding Marketable Locations**
@@ -50,17 +75,7 @@ Quiz 1: Understanding Depth of Field
  Nobody?
 **20. The Fundamentals of Good Selling Nature Photography**
 
-**21. Marketable Compositions 1**
-
-**22. Marketable Compositions 2**
-
-**23. Marketable Compositions 3**
-
-**24. Marketable Compositions 4**
-
-**25. Marketable Compositions 5**
-
-**26. Marketable Compositions 6**
+**21. Marketable Compositions 1, 2, 3, 4, 5, 6**
 
 **27. Wildlife Photography**
 
@@ -465,3 +480,5 @@ Cut costs (especially trips), increase marketing, nurture clients, explore new a
 [Charlie's website](http://borlandphoto.com/)
 [Model release](https://ssobczak.github.io/logbook/assets/photo-model-release.pdf)
 [Property release](https://ssobczak.github.io/logbook/assets/photo-property-release.pdf)
+
+![Charlie's website](https://ssobczak.github.io/logbook/assets/img/photo-cert.jpg)
