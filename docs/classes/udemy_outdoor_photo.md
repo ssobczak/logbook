@@ -329,67 +329,139 @@ Costs of producing an image.
 
 [Example pricing](https://ssobczak.github.io/logbook/assets/pricing-schedule.pdf)
 
-**106. Are these Images Rights managed or Royalty Free?**
+**108. Negotiating the Sale 1 & 2**
 
-**107. Pricing Schedule for Download**
+Emphasize value received by the client and base prices on that.
+Multi-image discount. Clients usually say that they can buy the same photo from someone else at a lower price.
 
-**108. Negotiating the Sale**
+Don't stress the costs, but the value. Clients usually don't stress about absolute value, but about paying too much.
 
-**109. Negotiating the Sale 2**
+Photo credit is worthless, but can be a way to lower price while saving face & not be weak.
+
+"I can get the same image for the same price" - this is usually false, but don't be cynical. Thank for contacting you.
 
 **110. Don't Make This Same Pricing Mistake I Made**
 
+Be ready to defend the price you quoted. If the price established is fair, stand by it.
+
 **111. Self Assignment 9: Pricing and Negotiation**
 
-Quiz 6: Pricing and Negotiation
+Price some of your images for example usages.
 
 ## Stock Photo Agencies
 **112. Joining a Stock Photo Agency**
 
+Agencies can do the sales for you & tell you what the trends are.
+
+Local market, or very rare topics are not good for agencies. Global-interest, current issues, ad-agency are a good match.
+
 **113. This Photograph Has Earned $900,000! Yes, it's True!**
+
+Conceptual photography is very lucrative. Photoshop is a good tool.
 
 **114. Self Assignment #7 Magazine assignment**
 
+Shoot a fictional assignment from a magazine.
 
 ## Photographing Assignments
 **115. Introduction to Photography Assignments**
 
+Market as specialist in the client area. Send appropriate work samples to marketing agencies. Figure out what are the clients of the agency.
+
 **116. Planning the Photography Assignment?**
+
+Client that purchase your stock can give you an assignment.
+Ask about all the details - what do they want.
+
+Big clients can pay for usage on top of assignment. Exclusivity for some period of time.
+
+Do advanced scouting of the location.
+
+Can get models from craigslist. Specialized stores & sales people can be the models.
+
+- permit
+- insurance
+- hotel / travel / car rental
+- travel / prep time - 50% of photo rate
+- assistant - 20% of photo rate
+- props / rental
+- 20% markup for out of pocket - no markup on upfront pays
+
+Agreement to give a client 1 image from each scenario. You'll take many shots in the same scenario - add a fee for using multiple images.
+
+Work for hire agreement - release copyright for all work done on that day.
 
 **117. Photography Assignment Estimate Example**
 
+[Example estimate](https://ssobczak.github.io/logbook/assets/photo-estimate.pdf)
+
 **118. I Hate Cold Calling and Here is What I do**
+
+If targeting particular brands / industries, calling is the best marketing strategy.
+
+"Hi, I'm a photographer and recently finished a project on XYZ. This is how it's related to your business. Can I send you some sample images?"
+
+May call manufactures to get gear.
 
 **119. Pricing Assignment Photography**
 
+Daily going rate for photographer on assignment - \$1K to \$2K per day.
+
+Get as much details as possible. Previous examples?
+
+Idea: photograph green energy.
+
 **120. Photographing the Outdoor Products Catalog**
+
+Example of planning and pricing multi-day shoot for Cammelback.
 
 **121. On Assignment: Axmen TV Show**
 
+Fun assignment - documenting shooting a movie about logging company.
+
 **122. Self Assignment 10: Assignments**
 
+Plan and estimate an assignment.
 
 ## Beyond Basic Photography
 **123. Photographing a Mountain Man Rendezvous**
 
+Old-time stylized processing of Mountain Men event.
+
 **124. Turning Daytime into Nightime**
 
+Example of how he processed a picture of Joshua tree.
 
 ## Course Summary, Learning Resources, and More
+
 **125. Read How This Photographer Deals With Copyright Infringement**
+[Article](https://arstechnica.com/tech-policy/2014/09/one-mans-endless-hopeless-struggle-to-protect-his-copyrighted-images/)
 
 **126. Getting Your Business to Run on Autopilot**
 
+- auto sales website
+- printing can be outsourced
+- books and ebooks
+- workshop sign-ups
+
 **127. Are you working hard to be an average photographer?**
+
+No  more sunsets - you are not in business to create images everybody loves. You are in the business to create photos that a few need (and will pay for).
 
 **128. When one thing leads to another**
 
+Transition from photographing landscapes to landscapes with people in them.
+
 **129. What is success in nature photography**
+
+Success is whatever you define as successful. There's more opportunity nowadays then ever to take great photos and have fun.
 
 **130. Surviving Tough Times**
 
+Cut costs (especially trips), increase marketing, nurture clients, explore new areas (to grow skills).
+
 **131. Course Wrap-Up**
 
-**132. Model Release**
-
-**133. Property Release**
+[Charlie's website](http://borlandphoto.com/)
+[Model release](https://ssobczak.github.io/logbook/assets/photo-model-release.pdf)
+[Property release](https://ssobczak.github.io/logbook/assets/photo-property-release.pdf)
