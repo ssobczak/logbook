@@ -327,8 +327,8 @@ What rights? One time shared use, or many times, exclusive? Industry-exclusive?
 Unique image - search for similars.
 Costs of producing an image.
 
-![magazines pricing](https://ssobczak.github.io/logbook/classes/img/magazines.png)
-![brochures pricing](https://ssobczak.github.io/logbook/classes/img/brochures.png)
+![magazines pricing](https://ssobczak.github.io/logbook/assets/img/magazines.png)
+![brochures pricing](https://ssobczak.github.io/logbook/assets/img/brochures.png)
 
 **106. Are these Images Rights managed or Royalty Free?**
 
