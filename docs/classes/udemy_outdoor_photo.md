@@ -1,4 +1,5 @@
 # Udemy: How to be a Professional Outdoor and Nature Photographer
+[Class on Udemy](https://www.udemy.com/how-to-be-a-professional-outdoor-and-nature-photographer)
 
 ## The Profession of Outdoor and Nature Photography
 **1. Intro to Professional Outdoor Photography**
@@ -295,22 +296,39 @@ Choose your best images and create direct mail card.
 
 ## Pricing Your Photography and Licensing Models
 **97. Introduction to Pricing Photography**
+Pricing can be fixed by the customer (we pay X per image), or can be set by photographer.
+
+Avg prices for:
+- rights managed - $300 x 1.3M volume = 400M
+- mid stock - $40 x 5M volume = 200M
+- micro stock - $6 x 44M volume = **264M**
+- subscription - $1.25 x 130M volume = 162M
+
+Niche, specialized photographers have higher prices.
 
 **98. Royalty Free vs. Rights Managed Licenses**
 
+RF - nice image on a normal day, many similar on the web
+RM - rare, special situation (thunder over grand canyon)
+
 **99. Microstock**
 
-**100. Establishing Usage Fees 1**
+RM is still there. Microstock is hard to earn money, Need to keep cost down.
 
-**101. Establishing Usage Fees 2**
+Avg commission per photo is \$0.50 - \$1 per photo. Small trip for $300 is hard to return.
 
-**102. Establishing a Price 3**
+**100. Establishing Usage Fees 1, 2, 3, 4, 5, 6**
+Ask how/where/how long/for how long is the image going to be used.
 
-**103. Establishing a Price 4**
+Estimate how many views - national vs local magazine.
+What size? Billboard or quarter page?
+Re-runs are worth half of the original run.
+What rights? One time shared use, or many times, exclusive? Industry-exclusive?
+Unique image - search for similars.
+Costs of producing an image.
 
-**104. Establishing a Price 5**
-
-**105. Establishing a Price 6**
+![magazines pricing](https://ssobczak.github.io/logbook/classes/img/magazines.png)
+![brochures pricing](https://ssobczak.github.io/logbook/classes/img/brochures.png)
 
 **106. Are these Images Rights managed or Royalty Free?**
 
