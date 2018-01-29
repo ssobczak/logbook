@@ -315,7 +315,7 @@ RM - rare, special situation (thunder over grand canyon)
 
 RM is still there. Microstock is hard to earn money, Need to keep cost down.
 
-Avg commission per photo is \$0.50 - \$1 per photo. Small trip for $300 is hard to return.
+Avg commission per photo is $\$0.50 - $\$1 per photo. Small trip for $300 is hard to return.
 
 **100. Establishing Usage Fees 1, 2, 3, 4, 5, 6**
 Ask how/where/how long/for how long is the image going to be used.
@@ -327,8 +327,7 @@ What rights? One time shared use, or many times, exclusive? Industry-exclusive?
 Unique image - search for similars.
 Costs of producing an image.
 
-![magazines pricing](https://ssobczak.github.io/logbook/assets/img/magazines.png)
-![brochures pricing](https://ssobczak.github.io/logbook/assets/img/brochures.png)
+[Example pricing](https://ssobczak.github.io/logbook/assets/pricing-schedule.pdf)
 
 **106. Are these Images Rights managed or Royalty Free?**
 
