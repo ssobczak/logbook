@@ -1,4 +1,10 @@
-# How to approach NLP problems
+---
+layout: post
+date:   2018-01-25
+categories: daily
+---
+
+## How to approach NLP problems
 [Medium article](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 - Gather dataset & label data - any model can be only as good as the data
 - Cleanup - remove numbers & urls, lowercase, tokenize, spelling correction, [lemmatization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html) (is, are, am -> be)

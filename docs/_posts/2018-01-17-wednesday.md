@@ -1,3 +1,9 @@
+---
+layout: post
+date:   2018-01-17
+categories: daily
+---
+
 ## Miners aren't your friends
 
 [Keep article](https://blog.keep.network/miners-arent-your-friends-cde9b6e0e9ac)

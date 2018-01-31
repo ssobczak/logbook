@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Wednesday"
 date:   2017-11-29
 categories: daily
 ---
 
-### VASIMR - Plasma rocket drive
+## VASIMR - Plasma rocket drive
 
 [Wiki](https://en.wikipedia.org/wiki/Variable_Specific_Impulse_Magnetoplasma_Rocket)
 
@@ -15,7 +14,7 @@ Theoretical max specific impulse of hydrogen-oxygen engine is 500 sec. Space shu
 
 Specific impulse of hydrogen plasma engine can reach 1000 sec at \\( 1800^oC \\). Hydrogen can be heated with microwaves.
 
-### Specific impulse
+## Specific impulse
 [Wiki](https://en.wikipedia.org/wiki/Specific_impulse)
 
 Total impulse, or change in momentum per unit of propellent used.
@@ -28,12 +27,12 @@ $$
 
 Why is a propellent mass in newton?
 
-### Python for Geo
+## Python for Geo
 
 [python course](https://automating-gis-processes.github.io/2016/course-info.html)
 
 
-### Formatting plots in matplotlib
+## Formatting plots in matplotlib
 
 Use white style
 

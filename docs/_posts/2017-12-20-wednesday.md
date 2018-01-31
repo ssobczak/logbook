@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Wednesday"
 date:   2017-12-20
 categories: daily
 ---
