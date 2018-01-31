@@ -1,0 +1,10 @@
+<ul class="list">
+  {% for post in include.posts %}
+    <li>
+      <p class="post-meta">{{ post.date | date: site.minima.date_format }}</p>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
