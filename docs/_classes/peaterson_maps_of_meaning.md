@@ -1,3 +1,8 @@
+---
+title: "Maps of Meaning"
+author: "Jordan B. Peaterson"
+---
+
  Maps of Meaning - J. Peaterson
 [Youtube lecture](https://www.youtube.com/watch?v=I8Xc2_FtpHI)
 

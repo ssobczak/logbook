@@ -1,7 +1,12 @@
-# Misbehaving
-The Making of Behavioral Economics by Richard H. Thaler
+---
+title: "Misbehaving. The Making of Behavioral Economics."
+author: "Richard H. Thaler"
+---
 
-Pref­ace
+# Misbehaving
+### The Making of Behavioral Economics
+ by Richard H. Thaler
+
 
 ## I. BE­GIN­NINGS: 1970–78
 1. Sup­pos­ed­ly Ir­rel­e­vant Fac­tors

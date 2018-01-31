@@ -1,3 +1,8 @@
+---
+title: "Influence: The Psychology of Persuasion"
+author: "Robert B. Cialdini"
+---
+
 # Influence: The Psychology of Persuasion
 by Robert B. Cialdini
 

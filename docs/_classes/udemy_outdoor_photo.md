@@ -1,3 +1,8 @@
+---
+title: "How to be a Professional Outdoor and Nature Photographer"
+platform: "Udemy"
+---
+
 # Udemy: How to be a Professional Outdoor and Nature Photographer
 [Class on Udemy](https://www.udemy.com/how-to-be-a-professional-outdoor-and-nature-photographer)
 
@@ -56,7 +61,7 @@ Photoshop is really useful for expressing concepts.
 
 Shoot pictures of 5 concepts.
 
-## Photography 101 (for those NEW to photography)
+## Photography 101
 - Photography Gear: The Camera
 - Photography Gear: The Lens
 - More Photography Gear
@@ -72,7 +77,7 @@ Shoot pictures of 5 concepts.
 **18. A Great Newsletter to Find Beautiful Places to Photograph**
 
 **19. Is Business Better as a Local Hero or an International**
- Nobody?
+
 **20. The Fundamentals of Good Selling Nature Photography**
 
 **21. Marketable Compositions 1, 2, 3, 4, 5, 6**
@@ -480,5 +485,7 @@ Cut costs (especially trips), increase marketing, nurture clients, explore new a
 [Charlie's website](http://borlandphoto.com/)
 [Model release](https://ssobczak.github.io/logbook/assets/photo-model-release.pdf)
 [Property release](https://ssobczak.github.io/logbook/assets/photo-property-release.pdf)
+
+## Done!
 
 ![Charlie's website](https://ssobczak.github.io/logbook/assets/img/photo-cert.jpg)
