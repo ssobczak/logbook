@@ -4,6 +4,9 @@
 # jekyll
 /_site
 /.sass-cache
+/docs/_site
+/docs/.sass-cache
+
 
 # Ignore bundler config.
 /.bundle
