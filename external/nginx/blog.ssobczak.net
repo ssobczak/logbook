@@ -1,0 +1,9 @@
+server {
+    listen 80;
+    server_name blog.ssobczak.net;
+
+    location / {
+        root /lemp/logbook_pub/;
+        index index.html index.htm;
+    }
+}
