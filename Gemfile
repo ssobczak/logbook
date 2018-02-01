@@ -64,7 +64,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Happy Jekylling!
 gem "jekyll", "~> 3.6.2"
 
-gem "html-proofer"
+gem "html-proofer", "~> 3.8.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
