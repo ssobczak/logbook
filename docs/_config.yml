@@ -36,7 +36,20 @@ collections:
     output: true
 
 defaults:
-  - scope:
+  -
+    scope:
       path: "assets/img"
     values:
       image: true
+  -
+    scope:
+      path: ""
+      type: books
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: classes
+    values:
+      layout: "post"
