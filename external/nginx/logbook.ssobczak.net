@@ -1,0 +1,14 @@
+server {
+    listen 80;
+    server_name logbook.ssobczak.net;
+
+    location / {
+        root /lemp/logbook_pub/;
+        index index.html index.htm;
+    }
+}
+
+server {
+    server_name www.logbook.ssobczak.net;
+    return 301 $scheme://logbook.ssobczak.net$request_uri;
+}
