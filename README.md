@@ -2,4 +2,4 @@
 
 Daily logbook of things worth remembering.
 
-See https://ssobczak.github.io/logbook/.
+See https://logbook.ssobczak.net/.
