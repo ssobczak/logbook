@@ -38,7 +38,7 @@ group :development, :test do
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
   gem "capistrano", "~> 3.10", require: false
-
+  gem 'capistrano-rbenv', '~> 2.1', require: false
 end
 
 group :development do

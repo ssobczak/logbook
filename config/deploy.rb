@@ -2,13 +2,13 @@
 lock "~> 3.10.1"
 
 set :application, "logbook"
-set :repo_url, "git@github.com:ssobczak/logbook.git"
+set :repo_url, "https://github.com/ssobczak/logbook.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-# set :deploy_to, "/var/www/my_app_name"
+set :deploy_to, "/lemp/logbook_cap"
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
@@ -37,3 +37,34 @@ set :repo_url, "git@github.com:ssobczak/logbook.git"
 
 # Uncomment the following to require manually verifying the host key before first deploy.
 # set :ssh_options, verify_host_key: :secure
+
+set :rbenv_type, :user # or :system, depends on your rbenv setup
+set :rbenv_ruby, File.read('.ruby-version').strip
+
+set :rbenv_prefix, "RBENV_ROOT=#{fetch(:rbenv_path)} RBENV_VERSION=#{fetch(:rbenv_ruby)} #{fetch(:rbenv_path)}/bin/rbenv exec"
+set :rbenv_map_bins, %w{rake gem bundle ruby rails}
+set :rbenv_roles, :all # default value
+
+# set :format, :pretty
+
+namespace :deploy do
+  task :bundle do
+    on roles(:all) do
+      within "#{deploy_to}/current" do
+        execute :bundle, :install
+      end
+    end
+  end
+
+  task :update_jekyll do
+    on roles(:static) do
+      within "#{deploy_to}/current" do
+      	execute :bundle, :exec, :jekyll, :build, "-s #{deploy_to}/current/docs"
+      end
+    end
+  end
+
+end
+
+after "deploy:symlink:release", "deploy:bundle"
+after "deploy:bundle", "deploy:update_jekyll"
