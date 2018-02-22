@@ -74,51 +74,117 @@ Shoot pictures of 5 concepts.
 ## Creating Nature Photography That Sells
 **17. Nature Photography: Finding Marketable Locations**
 
-**18. A Great Newsletter to Find Beautiful Places to Photograph**
+Check magazines, guidebooks, postcard stands etc to find most marketable locations / shots. Also google "top selling photography". Shoot both: pretty and ugly sides (like power plants etc.).
+Evernote with location ideas by state.
 
-**19. Is Business Better as a Local Hero or an International**
+[Photograph America](http://photographamerica.com) Guides on what / where to photograph in US.
+
+**19. Local Hero or International Nobody**
+
+It's easier to photograph areas nearby - easier access in various weather etc.
+Easier to be contacted by local company when you have a big catalog of related images.
+Can build an extensive list of potential buyers.
 
 **20. The Fundamentals of Good Selling Nature Photography**
 
+Wildlife is one of the smallest markets in nature.
+Houses and gardens can be a potential market.
+Natural events - thunders, clouds, snow etc.
+
 **21. Marketable Compositions 1, 2, 3, 4, 5, 6**
+
+Photo rules can be guidelines to where to start.
+- rule of thirds
+- framing
+- near-far
+- leading lines
+- s-curve
+- stacking
+- do not center
+- color as a composition - one stamp of color on a quiet background
+- patterns & textures
 
 **27. Wildlife Photography**
 
-**28. Lighting for Nature Photography**
+Understand the animal you're photographing, be an expert, show interesting behavior. Research where to find them, what time to photograph.
+Focus mode: AI servo - constantly refocusing.
+Trend: remote cameras triggered remotely.
 
-**29. Lighting for Nature Photography 2**
+**28. Lighting for Nature Photography 1, 2, 3**
 
-**30. Lighting for Nature Photography 3**
+Big landscapes benefit from light at low angle (morning and evening), as it casts shadows and emphasizes textures.
+Soft vs contrasty light.
+Light in the front / side / back of the subject.
+For sun flares - place sun behind a tree or sth. Also, high f stop will give a star effect.
 
 **31. Finding Your Vision**
 
+Photographers chose path in life, where they can find visual beauty in mundane and unexpected places. Enjoy it.
+When you hit a wall, turn left to right (doesn't matter) by trying something new.
+
 **32. Why You Should Shoot PHOTO ELEMENTS**
+
+You can compose pieces of multiple photographs to visualize concepts, like teamwork, growth etc.
 
 **33. Landscape Photography Shooting Strategies**
 
+Leave space for title / text on some pictures.
+Motion - blur water (1 sec.), wildlife or people running.
+Silhouette - expose for the background, image must tell a story.
+Get down to, or under plant / bug level.
+
 **34. Photographing Utah's Fallen Roof Ruin**
+
+Trip to Fallen Roof ruin and explanation on how it was processed.
 
 **35. Self Assignment: Calendar Company Request**
 - [] Calendar of your photos
 
 ## Creating Adventure Photography That Sells
 **36. Adventure Travel and Recreation Photography**
+Photograph people for more marketable photos & message (viewer seeing themselves in the picture).
+The more you know about a topic, the better photos.
 
 **37. Should You Be an Adventure Travel Generalist or Specialist?**
+Sometimes to get a good shot, you need to participate in the sport. Sometimes it's better to stand aside.
+If you're doing a sport, it's easy to become specialist in it.
 
 **38. The Markets for Adventure Photography**
+There are niche magazines for each of the outdoor sports. Also local associations, visitor center, product manufacturers etc.
+Remove logos from clothing.
+Magazines won't buy a single image - they buy from specialists, better to build a portfolio first.
 
 **39. Equipment for Adventure Photography**
+Purchased a bunch of sporting gear (canoe, tents, etc) to use as props. Purchased trough his company.
 
 **40. Conceptual Outdoor and Adventure Photography**
+Good for stock, sells well.
+Create a list of ideas and keep it with you on the shoot.
+
+Examples: risk, challenge, success, danger, success, victory, winning, speed, community, companionship, family, solitude, alone, reflection, inflection, injury, pain, safety, long term, size, exploration, holidays, struggle, challenge, love, companionship, parenting, active seniors, team work, help, remote, challenge, give it all, long road ahead, playful, silly, number one, warm, cozy, comfort.
 
 **41. Composition and Lighting for Adventure Photography**
+Compose for emotions & storytelling.
+What light works for the mood? Contrasty, flat or edge?
+Make the subject stand out from background, or show the background?
 
 **42. Adventure Photography Techniques**
+Add motion: panning, start at 1/40 for running person.
+Also try keeping the background still and let the subject move.
+Water blur.
+In some cases freezing works well, especially for nice backgrounds or good compositions, or front facing.
 
 **43. Finding Models**
+Take or make an adventure. Make = get people to do it for you.
+Model needs to be good at their sport. Professional clients can spot the difference. Also won't get noobs to do the cool things. Not the case for family / moody shots.
+Ask people that are doing an activity for a permission, offer prints.
+Talk with people in a sports shop - they can do the sport (or know the people). They can also recommend a location.
+Can offer 20% of sales from an image.
 
 **44. The Importance of Model Releases**
+Get one signed always. Agencies want it, people try to sue etc. The proof is on the photographer.
+Contracts with agencies hold photographer responsible for all costs.
+Also date all the releases. You may also need property releases.
 
 **45. Self assignment #2**
 - [] Photograph tent / rv / atv / kayaking etc.
