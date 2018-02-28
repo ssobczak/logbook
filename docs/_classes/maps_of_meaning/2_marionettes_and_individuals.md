@@ -1,5 +1,5 @@
 ---
-title: "Maps of Meaning - marionettes & individuals"
+title: "Maps of Meaning - marionettes & individuals, pt 1"
 author: "Jordan B. Peaterson"
 ---
 
@@ -39,3 +39,15 @@ We're incredibly technologically advanced, but we're not wise yet (morally). You
 How to set a good goal? It needs to be high above the mundane. Everyone can set a good goal. People choose not to have a meaningful life, because it means adopting a lot of responsibility and without that you can do whatever you want. For example "nothing human is foreign to me" - anything that others did, I could do too. This is a lot of responsibility.
 
 The best way to orient yourself in life is to orient yourself to the highest goal you can imagine and good things will happen to you.
+
+Sometimes worthy actions don't have to be recognized (story of the poor woman that would take mental patients for a walk with her dog). There are opportunities for elevating your actions, wherever you are.
+
+If you don't know what you should be doing, have a chat with yourself, ask what you should quit doing. If you do this 100x, you'll be in a good place.
+
+Quality (of things) is integrity - a thing that does what it's supposed to do and does it well.
+
+Conscience doesn't know everything - it's a guide, sometimes smarter than you. It's a society in your head, often gives you good hints, but you don't have to listen to it. It has a lot of generic advice, but also needs to be personalized and molded.
+
+Scientific approach says that you are a deterministic product of culture and nature. But the oldest stories say that you're a separate entity and you can change your destiny. We also behave like that, our entire legal system assumes that, but so far we have no way of accounting for that.
+
+In the book of creation god "tells" things to "be" form chaos. Gepetto gives Pinokio a voice, which is important - when you want to do something you need a plan, you voice it first and then execute.
