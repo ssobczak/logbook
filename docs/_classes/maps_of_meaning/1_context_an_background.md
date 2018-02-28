@@ -1,7 +1,7 @@
 ---
 title: "Maps of Meaning - context & background"
 author: "Jordan B. Peaterson"
-date: '2018-02-08'
+date: 2018-02-08
 ---
 
 # Maps of Meaning: Context & background

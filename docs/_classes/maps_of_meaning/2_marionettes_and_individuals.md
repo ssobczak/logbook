@@ -1,6 +1,7 @@
 ---
 title: "Maps of Meaning - marionettes & individuals, pt 1"
 author: "Jordan B. Peaterson"
+date: 2018-02-20
 ---
 
 # Maps of Meaning: Marionettes & individuals

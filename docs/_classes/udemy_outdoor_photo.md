@@ -1,6 +1,7 @@
 ---
 title: "How to be a Professional Outdoor and Nature Photographer"
 platform: "Udemy"
+date: 2018-02-15
 ---
 
 # Udemy: How to be a Professional Outdoor and Nature Photographer
