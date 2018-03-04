@@ -1,0 +1,8 @@
+# HACK to run jekyll for this dir. It loads plugins based on this file.
+
+gem "minima", "~> 2.0"
+
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-send-emails", :path => "/home/ssobczak/Projects/jekyll-send-emails"
+end
