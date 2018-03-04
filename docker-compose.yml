@@ -1,8 +1,0 @@
-version: '3'
-services:
-  web:
-    build: .
-    command: bash -c "bundle exec jekyll serve --config /logbook/docs/_config.yml --host 0.0.0.0 --detach && bin/rails server --binding 0.0.0.0"
-    volumes:
-      - .:/logbook
-    ports: ["3000:3000", "4000:4000"]
