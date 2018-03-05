@@ -22,6 +22,11 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
 end
 
+group :development do
+  gem "capistrano", "~> 3.10", require: false
+  gem 'capistrano-rbenv', '~> 2.1', require: false
+end
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
