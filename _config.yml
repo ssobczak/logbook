@@ -1,0 +1,55 @@
+title: Logbook
+author: ssobczak
+email: szymon.sobczak@gmail.com
+description: > # this means to ignore newlines until "xxx:"
+  Daily logbook of things worth remembering.
+twitter_username: szymonsobczak
+github_username:  ssobczak
+
+theme: minima
+baseurl: http://logbook.ssobczak.net
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%a, %F"
+
+plugins:
+  - jekyll-feed
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+collections:
+  books:
+    output: true
+  classes:
+    output: true
+  posts:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
+  -
+    scope:
+      path: ""
+      type: books
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: classes
+    values:
+      layout: "post"

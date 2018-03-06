@@ -59,7 +59,7 @@ namespace :deploy do
   task :update_jekyll do
     on roles(:static) do
       within "#{deploy_to}/current" do
-      	execute :bundle, :exec, :jekyll, :build, "-s #{deploy_to}/current/docs"
+      	execute :bundle, :exec, :jekyll, :build
       end
     end
   end
