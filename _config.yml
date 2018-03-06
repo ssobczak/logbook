@@ -7,7 +7,7 @@ twitter_username: szymonsobczak
 github_username:  ssobczak
 
 theme: minima
-baseurl: http://logbook.ssobczak.net
+url: http://logbook.ssobczak.net
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

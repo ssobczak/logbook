@@ -7,7 +7,7 @@ module Jekyll
       @pages << {
         collection: page.collection.label,
         date: page.data['date'].strftime('%F'),
-        url: @site.config['baseurl'] + page.url
+        url: @site.config['url'] + page.url
       }
     end
 
