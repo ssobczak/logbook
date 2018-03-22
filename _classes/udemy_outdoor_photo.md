@@ -4,7 +4,6 @@ platform: "Udemy"
 date: 2018-02-15
 ---
 
-# Udemy: How to be a Professional Outdoor and Nature Photographer
 [Class on Udemy](https://www.udemy.com/how-to-be-a-professional-outdoor-and-nature-photographer)
 
 ## The Profession of Outdoor and Nature Photography

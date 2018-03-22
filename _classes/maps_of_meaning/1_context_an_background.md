@@ -4,7 +4,6 @@ author: "Jordan B. Peaterson"
 date: 2018-02-08
 ---
 
-# Maps of Meaning: Context & background
 [Youtube lecture](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h&index=1)
 
 Every generation has it's worries. His was nuclear war.

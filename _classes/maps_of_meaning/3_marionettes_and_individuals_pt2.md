@@ -4,7 +4,6 @@ author: "Jordan B. Peaterson"
 date: 2018-02-27
 ---
 
-# Maps of Meaning: Marionettes & individuals
 [Youtube lecture](https://www.youtube.com/watch?v=Us979jCjHu8&index=3&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
 
 If you have a good relationship with your child, it's individual and allows the child to develop in the direction it wants.

@@ -4,7 +4,6 @@ author: "Jordan B. Peaterson"
 date: 2018-03-22
 ---
 
-# Maps of Meaning: Neuropsychology of Symbolic Representation
 [Youtube lecture](https://www.youtube.com/watch?v=Nb5cBkbQpGY)
 
 Our senses and perception is tuned to a particular scale. We operate in time of between 0.1 sec and 3 years, distance of touch-able (millimeters) to walk-able (10 km) etc. The same is true for cognitive categories - children will distinguish cat from a dog, but not two different species of a cat. Those are the basic categories.
