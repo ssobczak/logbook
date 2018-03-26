@@ -4,7 +4,6 @@ author: "Jordan B. Peaterson"
 date: 2018-02-20
 ---
 
-# Maps of Meaning: Marionettes & individuals
 [Youtube lecture](https://www.youtube.com/watch?v=EN2lyN7rM4E&index=2&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
 
 Fundamental problem: how to behave in the world and in relation to others in order to survive in the future. One way of solving this problem is dominance hierarchy. It's older than trees (300M years). It's been around for the longest, so it's the most real.

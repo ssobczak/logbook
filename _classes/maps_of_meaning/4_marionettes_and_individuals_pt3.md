@@ -4,7 +4,6 @@ author: "Jordan B. Peaterson"
 date: 2018-02-28
 ---
 
-# Maps of Meaning: Marionettes & individuals
 [Youtube lecture](https://www.youtube.com/watch?v=bV16NEWld8Q&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h&index=4)
 
 It's important to understand the changes happening in society before genocide to remember and learn the lesson. What happens often is that one group of people gets their sense of being victim increased. Then the genocide is covered by empathy on behalf of the opressed.
