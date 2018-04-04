@@ -39,7 +39,7 @@ set :deploy_to, "/lemp/logbook_cap"
 # set :ssh_options, verify_host_key: :secure
 
 set :rbenv_type, :user # or :system, depends on your rbenv setup
-set :rbenv_ruby, File.read('.ruby-version').strip
+set :rbenv_ruby, %x( rbenv version ).split(' ').first
 
 set :rbenv_prefix, "RBENV_ROOT=#{fetch(:rbenv_path)} RBENV_VERSION=#{fetch(:rbenv_ruby)} #{fetch(:rbenv_path)}/bin/rbenv exec"
 set :rbenv_map_bins, %w{rake gem bundle ruby rails}
